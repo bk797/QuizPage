@@ -1,0 +1,15 @@
+.card{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	min-height: 100vh;
+	font-family: 'Source Code Pro', monospace;
+}
+.question {
+	font-family: 'Press Start 2P', cursive;
+	/*cursor:default;*/
+}
+
+.pointer {
+	cursor:pointer;
+}
